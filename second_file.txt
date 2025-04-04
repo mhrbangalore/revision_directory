@@ -1,3 +1,4 @@
 This is the first line created from new_branch
 adding a new line from github to create conflict
 Adding a new line to create conflict
+adding a line from github
